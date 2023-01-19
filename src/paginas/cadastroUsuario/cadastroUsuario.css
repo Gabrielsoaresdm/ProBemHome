@@ -1,0 +1,22 @@
+.imagem{
+    width: 150px;
+    padding: 20px;
+    
+}
+.texto2{
+font-weight: bold !important;
+font-family: 'Abhaya Libre ExtraBold' !important;
+}
+
+.btnCancelar{
+margin-right: 20px !important;
+background-color:#BC363A!important;
+color: white !important;
+
+}
+
+.cdts{
+    
+    background-color:#BC363A!important;
+    color: white !important;
+}
